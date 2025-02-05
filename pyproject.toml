@@ -3,3 +3,4 @@ name = "ai-market-pulse"
 version = "0.1.0"
 description = "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool."
 requires-python = ">=3.10"
+# guard against empty input
